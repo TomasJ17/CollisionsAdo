@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="681.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.collisons.CollisionMain">
+   <children>
+      <AnchorPane layoutX="7.0" prefHeight="400.0" prefWidth="84.0" />
+      <AnchorPane id="spawn" fx:id="menu" layoutX="101.0" layoutY="1.0" prefHeight="400.0" prefWidth="577.0" />
+   </children>
+</AnchorPane>
